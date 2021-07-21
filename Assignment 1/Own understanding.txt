@@ -1,0 +1,19 @@
+RSSR:
+----
+1. y axis:  rows
+   x axis:  columns
+
+
+2. Sum of Imdb Score vs. sum of Gross.  Color shows details about Content Rating.  Details are shown for Movie Title.
+ The data is filtered on Gross, which includes values greater than or equal to 200000000. The view is filtered on Content Rating,
+ which keeps G and R
+
+
+==================================================================================
+
+Assignment 2:
+-------------
+
+done
+
+------------------------
